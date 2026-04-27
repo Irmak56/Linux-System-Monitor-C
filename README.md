@@ -21,5 +21,5 @@ This application retrieves real-time system metrics by directly interfacing with
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/Linux-System-Monitor-C.git](https://github.com/YOUR_USERNAME/Linux-System-Monitor-C.git)
+   git clone [https://github.com/Irmak56/Linux-System-Monitor-C.git](https://github.com/Irmak56/Linux-System-Monitor-C.git)
    cd Linux-System-Monitor-C
